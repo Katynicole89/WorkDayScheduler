@@ -17,7 +17,7 @@ A simple desktop calendar app to schedule the work day.
 * When refreshed, inputs persist in local storage. 
 
 ## SCREENSHOT:
-![image]()
+![image](https://github.com/Katynicole89/WorkDayScheduler/blob/develop/assets/images/workday.png)
 
 
 ## DEPLOYED SITE:
