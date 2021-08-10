@@ -1,20 +1,27 @@
-# Work Day Scheduler Starter Code
+# WORK DAY SCHEDULER
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
 
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
+## PROJECT DESCRIPTION:
+A simple desktop calendar app to schedule the work day. 
 
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
+## BUILT WITH:
+* HTML5
+* CSS3
+* JQuery
+* Bootstrap
 
-WHEN I click into a time block
-THEN I can enter an event
+## FUNCTIONALITY AND APPEARANCE:
+* When the app is opened, a date appears at the top of the screen and a calendar that is broken down by work hours (9am-5pm). 
+* User can input and save tasks in each of the hour timeslots. 
+* Tasks will change colors depending on relation to time of day input (past, present, future).
+* When refreshed, inputs persist in local storage. 
 
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
+## SCREENSHOT:
+![image]()
 
-WHEN I refresh the page
-THEN the saved events persist
+
+## DEPLOYED SITE:
+https://katynicole89.github.io/WorkDayScheduler/
+
+## LINK TO MAIN GITHUB
+https://github.com/Katynicole89
